@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/johndunne/goquery"
 	"github.com/temoto/robotstxt.go"
 	"golang.org/x/net/html"
 	"path"

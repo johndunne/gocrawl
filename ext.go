@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/johndunne/goquery"
 )
 
 // Delay information: the Options delay, the Robots.txt delay, and the last delay used.
